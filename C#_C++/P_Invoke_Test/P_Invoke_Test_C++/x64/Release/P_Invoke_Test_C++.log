@@ -1,0 +1,15 @@
+﻿  Arithmetic.cpp
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_C++\Arithmetic.cpp(5,8): warning C4273: 'Sum': dll 연결이 일치하지 않습니다.
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_C++\Arithmetic.h(9,28): message : 'Sum'의 이전 정의를 참조하십시오.
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_C++\Arithmetic.cpp(10,8): warning C4273: 'Substract': dll 연결이 일치하지 않습니다.
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_C++\Arithmetic.h(10,28): message : 'Substract'의 이전 정의를 참조하십시오.
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_C++\Arithmetic.cpp(15,8): warning C4273: 'Multiply': dll 연결이 일치하지 않습니다.
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_C++\Arithmetic.h(11,28): message : 'Multiply'의 이전 정의를 참조하십시오.
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_C++\Arithmetic.cpp(20,8): warning C4273: 'Divide': dll 연결이 일치하지 않습니다.
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_C++\Arithmetic.h(12,28): message : 'Divide'의 이전 정의를 참조하십시오.
+     D:\Visual Studio Project\C#_C++\P_Invoke_Test\x64\Release\P_Invoke_Test_C++.lib 라이브러리 및 D:\Visual Studio Project\C#_C++\P_Invoke_Test\x64\Release\P_Invoke_Test_C++.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  P_Invoke_Test_C++.vcxproj -> D:\Visual Studio Project\C#_C++\P_Invoke_Test\x64\Release\P_Invoke_Test_C++.dll

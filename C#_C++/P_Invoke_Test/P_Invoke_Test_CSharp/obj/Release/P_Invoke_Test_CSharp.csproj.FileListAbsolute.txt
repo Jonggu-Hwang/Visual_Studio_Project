@@ -1,0 +1,11 @@
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\bin\Release\P_Invoke_Test_CSharp.exe.config
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\bin\Release\P_Invoke_Test_CSharp.exe
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\bin\Release\P_Invoke_Test_CSharp.pdb
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\obj\Release\P_Invoke_Test_CSharp.csproj.AssemblyReference.cache
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\obj\Release\P_Invoke_Test_CSharp.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\obj\Release\P_Invoke_Test_CSharp.Properties.Resources.resources
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\obj\Release\P_Invoke_Test_CSharp.csproj.GenerateResource.cache
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\obj\Release\P_Invoke_Test_CSharp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\obj\Release\P_Invoke_Test_CSharp.exe
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\obj\Release\P_Invoke_Test_CSharp.pdb
+D:\Visual Studio Project\C#_C++\P_Invoke_Test\P_Invoke_Test_CSharp\obj\Release\P_Invoke_Test_CSharp.Form_Main.resources
