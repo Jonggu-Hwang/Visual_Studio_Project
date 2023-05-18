@@ -1,0 +1,1 @@
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_C++\x64\Debug\CLI_Test_Cpp.vcxproj.AssemblyReference.cache

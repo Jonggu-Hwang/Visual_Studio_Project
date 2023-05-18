@@ -1,0 +1,14 @@
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\bin\Release\CLI_Test_CSharp.exe.config
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\bin\Release\CLI_Test_CSharp.exe
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\bin\Release\CLI_Test_CSharp.pdb
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\bin\Release\CLI_Test_Cpp.dll
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\bin\Release\CLI_Test_Cpp.pdb
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\obj\Release\CLI_Test_CSharp.csproj.AssemblyReference.cache
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\obj\Release\CLI_Test_CSharp.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\obj\Release\CLI_Test_CSharp.Form_Main.resources
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\obj\Release\CLI_Test_CSharp.Properties.Resources.resources
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\obj\Release\CLI_Test_CSharp.csproj.GenerateResource.cache
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\obj\Release\CLI_Test_CSharp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\obj\Release\CLI_Test_CSharp.csproj.CopyComplete
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\obj\Release\CLI_Test_CSharp.exe
+D:\Visual Studio Project\C#_C++\C++_CLI_Test\CLI_Test_CSharp\obj\Release\CLI_Test_CSharp.pdb
