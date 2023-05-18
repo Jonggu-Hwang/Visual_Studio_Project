@@ -1,0 +1,30 @@
+C:\Users\HJG\source\repos\Chapter 3\Starprint\bin\Debug\net6.0\Starprint.exe
+C:\Users\HJG\source\repos\Chapter 3\Starprint\bin\Debug\net6.0\Starprint.deps.json
+C:\Users\HJG\source\repos\Chapter 3\Starprint\bin\Debug\net6.0\Starprint.runtimeconfig.json
+C:\Users\HJG\source\repos\Chapter 3\Starprint\bin\Debug\net6.0\Starprint.dll
+C:\Users\HJG\source\repos\Chapter 3\Starprint\bin\Debug\net6.0\Starprint.pdb
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\Starprint.csproj.AssemblyReference.cache
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\Starprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\Starprint.AssemblyInfoInputs.cache
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\Starprint.AssemblyInfo.cs
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\Starprint.csproj.CoreCompileInputs.cache
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\Starprint.dll
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\refint\Starprint.dll
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\Starprint.pdb
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\Starprint.genruntimeconfig.cache
+C:\Users\HJG\source\repos\Chapter 3\Starprint\obj\Debug\net6.0\ref\Starprint.dll
+D:\Visual Studio Project\C#\C# Study\Starprint\bin\Debug\net6.0\Starprint.exe
+D:\Visual Studio Project\C#\C# Study\Starprint\bin\Debug\net6.0\Starprint.deps.json
+D:\Visual Studio Project\C#\C# Study\Starprint\bin\Debug\net6.0\Starprint.runtimeconfig.json
+D:\Visual Studio Project\C#\C# Study\Starprint\bin\Debug\net6.0\Starprint.dll
+D:\Visual Studio Project\C#\C# Study\Starprint\bin\Debug\net6.0\Starprint.pdb
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\Starprint.csproj.AssemblyReference.cache
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\Starprint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\Starprint.AssemblyInfoInputs.cache
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\Starprint.AssemblyInfo.cs
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\Starprint.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\Starprint.dll
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\refint\Starprint.dll
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\Starprint.pdb
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\Starprint.genruntimeconfig.cache
+D:\Visual Studio Project\C#\C# Study\Starprint\obj\Debug\net6.0\ref\Starprint.dll

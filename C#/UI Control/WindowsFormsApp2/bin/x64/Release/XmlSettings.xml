@@ -1,0 +1,5 @@
+<Parameter>
+  <RadioButton radioButton_Single="False" radioButton_Multiple="True" />
+  <Single_Threshold>0.5</Single_Threshold>
+  <Multiple_Count>6</Multiple_Count>
+</Parameter>

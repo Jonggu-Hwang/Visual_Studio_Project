@@ -1,0 +1,32 @@
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.exe
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.deps.json
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.runtimeconfig.json
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.runtimeconfig.dev.json
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.dll
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.pdb
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.csproj.AssemblyReference.cache
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.AssemblyInfoInputs.cache
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.AssemblyInfo.cs
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.csproj.CoreCompileInputs.cache
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.dll
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\refint\IntegerLiterals.dll
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.pdb
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.genruntimeconfig.cache
+C:\Users\HJG\source\repos\Chapter 3\IntegerLiterals\obj\Debug\net5.0\ref\IntegerLiterals.dll
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.exe
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.deps.json
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.runtimeconfig.json
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.runtimeconfig.dev.json
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.dll
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\bin\Debug\net5.0\IntegerLiterals.pdb
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.csproj.AssemblyReference.cache
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.AssemblyInfoInputs.cache
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.AssemblyInfo.cs
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.dll
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\refint\IntegerLiterals.dll
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.pdb
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\IntegerLiterals.genruntimeconfig.cache
+D:\Visual Studio Project\C#\C# Study\IntegerLiterals\obj\Debug\net5.0\ref\IntegerLiterals.dll

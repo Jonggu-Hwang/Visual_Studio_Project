@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDPoKyl4xFAT0C/nJKvOHePVoVT0Wj+vpxjaafynjIzbkP6GrXCF6Xq0oqlW2JdEuGLRk2K8RplOrLcN3NQpug==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Project\\C#\\C# Study\\ReadonlyMethod\\ReadonlyMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

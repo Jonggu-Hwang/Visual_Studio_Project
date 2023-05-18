@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECR0hxMQsdLLCIBknjUSghe+zEj3jlcLWljm8+23490L7pFwsU+R5vT4gWAsbFoDQawqD8ytmJe0UE0c9MY3fg==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Project\\C#\\C# Study\\IntegerLiterals\\IntegerLiterals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

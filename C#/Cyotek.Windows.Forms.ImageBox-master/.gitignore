@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+_NCrunch_*
+nuget/
+packages/
+maps/
+
+*.ncrunch*
+*.user
+push.cmd
+*.suo
+*.ncrunchproject

@@ -1,0 +1,32 @@
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\IntegralTypes.csproj.AssemblyReference.cache
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\IntegralTypes.AssemblyInfo.cs
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\bin\Debug\net5.0\IntegralTypes.exe
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\bin\Debug\net5.0\IntegralTypes.deps.json
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\bin\Debug\net5.0\IntegralTypes.runtimeconfig.json
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\bin\Debug\net5.0\IntegralTypes.runtimeconfig.dev.json
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\bin\Debug\net5.0\IntegralTypes.dll
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\bin\Debug\net5.0\IntegralTypes.pdb
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\IntegralTypes.dll
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\refint\IntegralTypes.dll
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\IntegralTypes.pdb
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\IntegralTypes.genruntimeconfig.cache
+C:\Users\HJG\source\repos\Chapter 3\IntegralTypes\obj\Debug\net5.0\ref\IntegralTypes.dll
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\bin\Debug\net5.0\IntegralTypes.exe
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\bin\Debug\net5.0\IntegralTypes.deps.json
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\bin\Debug\net5.0\IntegralTypes.runtimeconfig.json
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\bin\Debug\net5.0\IntegralTypes.runtimeconfig.dev.json
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\bin\Debug\net5.0\IntegralTypes.dll
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\bin\Debug\net5.0\IntegralTypes.pdb
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\IntegralTypes.csproj.AssemblyReference.cache
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\IntegralTypes.AssemblyInfoInputs.cache
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\IntegralTypes.AssemblyInfo.cs
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\IntegralTypes.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\IntegralTypes.dll
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\refint\IntegralTypes.dll
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\IntegralTypes.pdb
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\IntegralTypes.genruntimeconfig.cache
+D:\Visual Studio Project\C#\C# Study\IntegralTypes\obj\Debug\net5.0\ref\IntegralTypes.dll

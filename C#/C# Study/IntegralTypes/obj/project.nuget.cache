@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JUvxrNrzWks3an+EGA00FnC6JG2Y6eFWAnkWgAE6Mfr6xPSlTNS/gxEGo5o63YKytsnkL+99DVS5lja9yW2WA==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Project\\C#\\C# Study\\IntegralTypes\\IntegralTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HJG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
